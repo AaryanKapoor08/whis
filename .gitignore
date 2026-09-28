@@ -1,0 +1,11 @@
+.env
+.venv/
+logs/
+__pycache__/
+*.pyc
+*.log
+*.md
+claude/
+.claude/
+CLAUDE.md
+scratch/
